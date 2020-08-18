@@ -14,9 +14,9 @@ description: "Create an OER workshop website quick and easy!"
 keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: technomonk
+pub_year: 2020
+github_username: technomonk
 
 # add the full url for the github repository
 repo: "https://github.com/technomonk/jekyll-test"
@@ -24,10 +24,10 @@ repo: "https://github.com/technomonk/jekyll-test"
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://evanwill.github.io
+url: https://technomonk.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template
+baseurl: /jekyll-test
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
